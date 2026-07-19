@@ -29,17 +29,14 @@
 </p>
 -->
 <p>
-  <a href="https://github.com/[https://github.com/suppakrit14">
+  <a href="[https://github.com/suppakrit14">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/https://www.facebook.com/suppakrit.karawa">
+  <a href="https://www.facebook.com/suppakrit.karawa">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/bammbi_08/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:suppkrit14@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -51,7 +48,7 @@
 
 - 💻 สนใจด้าน Web Development และการสร้าง User Experience ที่ใช้งานง่าย
 - 🧩 ชอบเขียนโค้ดที่อ่านง่าย ดูแลต่อได้ และแก้ไขได้สะดวก
-- 🌱 Currently learning: **[EDIT: สิ่งที่กำลังเรียนรู้]**
+- 🌱 Currently studying Information Technology
 
 ## Tech Stack
 
