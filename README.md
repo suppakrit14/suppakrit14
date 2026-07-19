@@ -7,7 +7,14 @@
 -->
 
 <div align="center">
-<img src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/15779c23-864e-4751-a47c-9beb6e5ac665" />"  width="300" height="200">
+
+<img
+  src="https://example.com/your-animation.gif"
+  alt="Suppakrit coding animation"
+  width="500"
+/>
+
+</div>
 
 # Hi, I'm Suppakrit 👋
 
