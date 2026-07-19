@@ -1,16 +1,87 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is suppakrit karawa
-=========================================================================================================================================
+<!--
+[EDIT] Replace every value marked with [EDIT] before publishing:
+- Image paths in the profile and project sections
+- Project names, descriptions, and links
+- Social links and email
+- Currently learning topics
+-->
 
-software developer
-------------------
+<div align="center">
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [suppkrit14@gmail.com](mailto:suppkrit14@gmail.com)
+<img src="./assets/profile.jpg" alt="Suppakrit profile photo" width="140" />
 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-</p>
+# Hi, I'm Suppakrit 👋
 
-### Socials
+### Software Developer
 
-<p align="left"> <a href="https://www.github.com/suppakrit14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+ผมเป็น Software Developer ที่สนใจการสร้างเว็บไซต์และพัฒนาโปรเจกต์ที่ใช้งานได้จริง
+
+I enjoy turning ideas into clean, simple, and useful digital experiences.
+
+</div>
+
+---
+
+## About Me
+
+- 💻 สนใจด้าน Web Development และการสร้าง User Experience ที่ใช้งานง่าย
+- 🧩 ชอบเขียนโค้ดที่อ่านง่าย ดูแลต่อได้ และแก้ไขได้สะดวก
+- 🌱 Currently learning: **[EDIT: สิ่งที่กำลังเรียนรู้]**
+
+## Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/project-01.jpg" alt="[EDIT] Project 1 screenshot" />
+      <h3>[EDIT] Project One</h3>
+      <p>[EDIT] คำอธิบายสั้น ๆ ของโปรเจกต์แรก</p>
+      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
+      <a href="[EDIT: project-1-link]">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/project-02.jpg" alt="[EDIT] Project 2 screenshot" />
+      <h3>[EDIT] Project Two</h3>
+      <p>[EDIT] คำอธิบายสั้น ๆ ของโปรเจกต์ที่สอง</p>
+      <p><strong>Stack:</strong> Tailwind CSS · JavaScript</p>
+      <a href="[EDIT: project-2-link]">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/project-03.jpg" alt="[EDIT] Project 3 screenshot" />
+      <h3>[EDIT] Project Three</h3>
+      <p>[EDIT] คำอธิบายสั้น ๆ ของโปรเจกต์ที่สาม</p>
+      <p><strong>Stack:</strong> HTML · CSS · Tailwind CSS</p>
+      <a href="[EDIT: project-3-link]">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/project-04.jpg" alt="[EDIT] Project 4 screenshot" />
+      <h3>[EDIT] Project Four</h3>
+      <p>[EDIT] คำอธิบายสั้น ๆ ของโปรเจกต์ที่สี่</p>
+      <p><strong>Stack:</strong> JavaScript · Tailwind CSS</p>
+      <a href="[EDIT: project-4-link]">View Project →</a>
+    </td>
+  </tr>
+</table>
+
+## Let's Connect
+
+ถ้าสนใจพูดคุยเรื่องการพัฒนาเว็บไซต์หรือโปรเจกต์ใหม่ ๆ ติดต่อผมได้ที่:
+
+- GitHub: [@suppakrit](https://github.com/[EDIT: your-github-username])
+- LinkedIn: [Suppakrit](https://www.linkedin.com/in/[EDIT: your-linkedin-username])
+- Email: [EDIT: your-email@example.com](mailto:[EDIT: your-email@example.com])
+
+<div align="center">
+
+Thanks for visiting my profile ✨
+
+</div>
