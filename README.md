@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="https://tenor.com/bSnfL.gif"
+  src="[https://tenor.com/bSnfL.gif](https://media1.tenor.com/m/Ec86JwJmjJUAAAAd/aot-eren.gif)"
   alt="Suppakrit coding animation"
   width="500"
 />
