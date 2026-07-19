@@ -35,7 +35,7 @@
   <a href="https://www.facebook.com/https://www.facebook.com/suppakrit.karawa">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/https://www.instagram.com/">
+  <a href="https://www.instagram.com/bammbi_08/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:suppkrit14@gmail.com">
