@@ -8,21 +8,42 @@
 
 <div align="center">
 
-<img
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ2ZjU1N3h0ZXllc3B6b25mdGE2cXNranF1MjlrbGlyeWw0dnZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/neyNdYtCdcfUdWCS9L/giphy.gif"
-  alt="Suppakrit coding animation"
-  width="500"
-/>
+<!-- [EDIT] Replace this with a direct GIF URL or a local path such as ./assets/intro.gif -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ2ZjU1N3h0ZXllc3B6b25mdGE2cXNranF1MjlrbGlyeWw0dnZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/neyNdYtCdcfUdWCS9L/giphy.gif" width="100%" />
 
-</div>
+<br />
 
-# Hi, I'm Suppakrit 👋
+# ⚡This is my life ⚡
 
-### Software Developer
+### Suppakrit · Software Developer
 
-ผมเป็น Software Developer ที่สนใจการสร้างเว็บไซต์และพัฒนาโปรเจกต์ที่ใช้งานได้จริง
+<hr />
 
-I enjoy turning ideas into clean, simple, and useful digital experiences.
+> **"[EDIT: ใส่คำคมหรือประโยคที่เป็นตัวคุณ]"**
+
+<p>
+  <a href="[EDIT: portfolio-url]">🌐 Website Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="[EDIT: project-url]">🔗 Featured Project</a>
+</p>
+
+<p>
+  <a href="https://github.com/[EDIT: your-github-username]">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/[EDIT: your-facebook-username]">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/[EDIT: your-instagram-username]">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@[EDIT: your-youtube-handle]">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:[EDIT: your-email@example.com]">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -82,9 +103,15 @@ I enjoy turning ideas into clean, simple, and useful digital experiences.
 
 ถ้าสนใจพูดคุยเรื่องการพัฒนาเว็บไซต์หรือโปรเจกต์ใหม่ ๆ ติดต่อผมได้ที่:
 
-- GitHub: [@suppakrit](https://github.com/[EDIT: your-github-username])
-- LinkedIn: [Suppakrit](https://www.linkedin.com/in/[EDIT: your-linkedin-username])
-- Email: [EDIT: your-email@example.com](mailto:[EDIT: your-email@example.com])
+<a href="https://github.com/[EDIT: your-github-username]">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/[EDIT: your-linkedin-username]">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:[EDIT: your-email@example.com]">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <div align="center">
 
