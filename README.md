@@ -14,13 +14,13 @@
 
 <br />
 
-# ⚡This is my life ⚡
+# ⚡-This is my life- ⚡
 
-### Suppakrit · Software Developer
+### Suppakrit · Software Developer 🍀
 
 <hr />
 
-> **"Beam"**
+> # 🖥️ -Social- 🖥️
 <!--
 <p>
   <a href="[EDIT: portfolio-url]">🌐 Website Portfolio</a>
