@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="<div class="tenor-gif-embed" data-postid="25313087" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aot-eren-attack-on-titan-the-ocean-the-other-side-gif-25313087">Aot Eren GIF</a>from <a href="https://tenor.com/search/aot-gifs">Aot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"
+  src="https://tenor.com/bSnfL.gif"
   alt="Suppakrit coding animation"
   width="500"
 />
