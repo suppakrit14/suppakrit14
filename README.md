@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<!-- [EDIT] Replace this with a direct GIF URL or a local path such as ./assets/intro.gif -->
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ2ZjU1N3h0ZXllc3B6b25mdGE2cXNranF1MjlrbGlyeWw0dnZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/neyNdYtCdcfUdWCS9L/giphy.gif" 
   width="500" />
 
@@ -44,7 +44,7 @@
 
 ---
 
-## About Me
+## Tech Student | Powered by Determination
 
 - 💻 สนใจด้าน Web Development และการสร้าง User Experience ที่ใช้งานง่าย
 - 🧩 ชอบเขียนโค้ดที่อ่านง่าย ดูแลต่อได้ และแก้ไขได้สะดวก
