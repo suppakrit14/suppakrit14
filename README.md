@@ -7,8 +7,7 @@
 -->
 
 <div align="center">
-
-<img [[src="./assets/profile.jpg](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ2ZjU1N3h0ZXllc3B6b25mdGE2cXNranF1MjlrbGlyeWw0dnZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/neyNdYtCdcfUdWCS9L/giphy.gif)" alt="Suppakrit profile photo" width="140"] />
+<img src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/15779c23-864e-4751-a47c-9beb6e5ac665" />"  width="300" height="200">
 
 # Hi, I'm Suppakrit 👋
 
