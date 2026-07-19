@@ -9,7 +9,8 @@
 <div align="center">
 
 <!-- [EDIT] Replace this with a direct GIF URL or a local path such as ./assets/intro.gif -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ2ZjU1N3h0ZXllc3B6b25mdGE2cXNranF1MjlrbGlyeWw0dnZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/neyNdYtCdcfUdWCS9L/giphy.gif" width="100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ2ZjU1N3h0ZXllc3B6b25mdGE2cXNranF1MjlrbGlyeWw0dnZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/neyNdYtCdcfUdWCS9L/giphy.gif" 
+  width="500" />
 
 <br />
 
@@ -19,16 +20,16 @@
 
 <hr />
 
-> **"[EDIT: ใส่คำคมหรือประโยคที่เป็นตัวคุณ]"**
-
+> **"Beam"**
+<!--
 <p>
   <a href="[EDIT: portfolio-url]">🌐 Website Portfolio</a>
   &nbsp;•&nbsp;
   <a href="[EDIT: project-url]">🔗 Featured Project</a>
 </p>
-
+-->
 <p>
-  <a href="https://github.com/[EDIT: your-github-username]">
+  <a href="https://github.com/[https://github.com/suppakrit14]">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/[EDIT: your-facebook-username]">
