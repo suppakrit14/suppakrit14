@@ -48,7 +48,7 @@
 
 - 💻 สนใจด้าน Web Development และการสร้าง User Experience ที่ใช้งานง่าย
 - 🧩 ชอบเขียนโค้ดที่อ่านง่าย ดูแลต่อได้ และแก้ไขได้สะดวก
-- 🌱 Currently studying Information Technology มาก
+- 🌱 Currently studying Information Technology 
 
 ## Tech Stack
 
