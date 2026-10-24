@@ -8,7 +8,8 @@
 
 <div align="center">
   
-<img src="[https://tenor.com/view/throwing-a-tantrum-kuromi-my-melody-%26-kuromi-tantrums-flailing-arms-and-legs-gif-12552347354282677646](https://tenor.com/view/throwing-a-tantrum-kuromi-my-melody-%26-kuromi-tantrums-flailing-arms-and-legs-gif-12552347354282677646)" width="500" alt="...">
+<img src="https://tenor.com" width="300" alt="Kuromi">
+
 
 
 <br />
