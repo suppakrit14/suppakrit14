@@ -8,11 +8,7 @@
 
 <div align="center">
   
-<div class="tenor-gif-embed" data-postid="12552347354282677646" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/throwing-a-tantrum-kuromi-my-melody-%26-kuromi-tantrums-flailing-arms-and-legs-gif-12552347354282677646">Throwing A Tantrum Kuromi GIF</a>from <a href="https://tenor.com/search/throwing+a+tantrum-gifs">Throwing A Tantrum GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
-  
-</script>
-
-<img src=""  width="500" />
+<img src="https://tenor.com/view/throwing-a-tantrum-kuromi-my-melody-%26-kuromi-tantrums-flailing-arms-and-legs-gif-12552347354282677646"  width="500" />
 
 <br />
 
