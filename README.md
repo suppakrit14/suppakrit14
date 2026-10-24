@@ -9,7 +9,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="winking-kuromi.gif" width="500">
+  <img src="winking-kuromi.gif" width="600">
 </p>
 
 
