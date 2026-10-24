@@ -9,7 +9,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://tenor.com/view/winking-kuromi-my-melody-%26-kuromi-flirting-netflix-gif-6159059276254052430" width="500">
+  <img src="winking-kuromi.gif" width="500">
 </p>
 
 
