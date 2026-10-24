@@ -8,7 +8,9 @@
 
 <div align="center">
   
-<img src="[https://tenor.com/view/throwing-a-tantrum-kuromi-my-melody-%26-kuromi-tantrums-flailing-arms-and-legs-gif-12552347354282677646](https://giphy.com/gifs/hello-kitty-cute-kZqbBT64ECtjy)" width="300" alt="Kuromi">
+<p align="center">
+  <img src="https://tenor.com/view/winking-kuromi-my-melody-%26-kuromi-flirting-netflix-gif-6159059276254052430" width="500">
+</p>
 
 
 
